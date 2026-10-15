@@ -1,0 +1,23 @@
+/* inline-block*/
+
+<p style="color: crimson;">
+  Hi! This is my very own webpage.
+</p>
+
+/*internal css */
+<style>
+  h1 {
+    color: darkblue;
+  }
+  body {
+    background-color: lightgray;
+  }
+</style>
+
+/*css properties and values*/
+p {
+  color: dimgray;
+  background-color: lightyellow;
+  font-size: 15px;
+  font-weight: bold;
+}
